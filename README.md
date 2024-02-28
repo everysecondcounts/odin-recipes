@@ -16,4 +16,5 @@ By doing it, my main objective was to test my working knowledge of basic workflo
     <li>Increase workflow productivity by getting used to working with Oh My Zsh shortcuts</li> 
     <li>Review all my previously acquired HTML fundamentals by creating this MVP website</li> 
 </ul>
+
 Upcoming: style the site and improve commit messages.
