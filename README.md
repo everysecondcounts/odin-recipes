@@ -12,7 +12,7 @@ By doing it, my main objective was to test my working knowledge of basic workflo
     <li>Write my first commit messages on VSCode</li> 
     <li>Practice working with atomic commits vs non-atomic commits to understand the advantages of the former</li> 
     <li>Push modifications to the repo</li>
-    <li>Publish a live example of the site on GitHub pages</li>
+    <li>Deploy a live example of the site on GitHub pages</li>
     <li>Set up Referrer-Policy on individual links to increase the site's security and preserve users' privacy</li>
     <li>Increase workflow productivity by getting used to working with Oh My Zsh shortcuts</li> 
     <li>Review all my previously acquired HTML fundamentals by creating this MVP website</li> 
