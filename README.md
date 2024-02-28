@@ -10,6 +10,8 @@ By doing it, my main objective was to test my working knowledge of basic workflo
     <li>Create the website structure without relying on the GUI</li> 
     <li>Stage and commit modified files and familiarize myself with GIT</li>
     <li>Write my first commit messages (to be improved)</li> 
+    <li>Push modifications to the repo</li>
+    <li>Publish a live example of the site on GitHub pages</li>
     <li>Set up Referrer-Policy on individual links to increase the site's security and preserve users' privacy</li>
     <li>Increase workflow productivity by getting used to working with Oh My Zsh shortcuts</li> 
     <li>Review all my previously acquired HTML fundamentals by creating this MVP website</li> 
