@@ -1,0 +1,74 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+}
+
+
+.title {
+    color: rgb(145, 90, 28);
+    font-weight: 800;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+a {
+    color: rgb(96, 96, 176);
+}
+
+blockquote {
+    font-size: 87%;
+    font-style: italic;
+    background-color:rgb(154, 96, 29);
+    color: bisque;
+}
+
+img {
+    width: 400px;
+}
+
+figcaption {
+    font-size: 70%;
+    color: gray;
+    margin-left: 200px;
+}
+
+.more {
+    color:rgb(145, 90, 28);
+    font-weight: 800;
+    text-decoration: none;
+    text-align: center;
+}
+
+.more.up {
+    font-size: 70%;
+    text-align: right;
+    font-weight: 400;
+    margin-left: 1rem;
+}
+
+ul, ol {
+    font-size: 80%;
+}
+
+li {
+    text-align: left;
+    margin-left: 15%;
+    max-width: 300px;
+
+}
+
+ul.ingredients {
+    list-style-type: none;
+}
+
+* {
+    text-align: center;
+}
